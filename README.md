@@ -1,68 +1,75 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Insta-Visc Web App
 
-## Available Scripts
+## Viscosity and Drain Time Calculator
 
-In the project directory, you can run:
+Simply input either a drain time or viscosity into one of the given input fields and then select the type of viscosity cup you are working with to calculate the viscosity or drain time of your sample.
 
-### `npm start`
+If the selected cup is highlighted in green that means you are within the cups viscosity range and the number is valid. If you are outside of the cups range an error message will appear, meaning you are outside the tolerance range of that given cup. If this appears please use a different size cup that would be in range for what you would like to test.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+You can see what cups are in range for your desired value by inputting the value you want to test and scrolling through the list, any cup in green will be able to provide a valid measurement for the desired input.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Features
 
-### `npm test`
+- Easy to use
+- Fast calculations
+- 52 viscosity cups included
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 52 Different Cups to Choose From
 
-### `npm run build`
+- EZ #1
+- EZ #2
+- EZ #3
+- EZ #4
+- EZ #5
+- S90 #1
+- S90 #2
+- S90 #3
+- S90 #4
+- S90 #5
+- BYK Zahn Cup #1
+- BYK Zahn Cup #2
+- BYK Zahn Cup #3
+- BYK Zahn Cup #4
+- BYK Zahn Cup #5
+- Mini Ford Dip #0
+- Mini Ford Dip #1
+- Mini Ford Dip #2
+- Mini Ford Dip #3
+- Mini Ford Dip #4
+- Mini Ford Dip #5
+- Ford Dip #3
+- Ford Dip #4
+- Ford Dip #5
+- Fisher Dip Cup #1
+- Fisher Dip Cup #2
+- Fisher Dip Cup #3
+- Fisher Dip Cup #4
+- ISO Dip 3mm
+- ISO Dip 4mm
+- ISO Dip 5mm
+- DIN Dip 4mm
+- Ford Cup #0
+- Ford Cup #1
+- Ford Cup #2
+- Ford Cup #3
+- Ford Cup #4
+- Ford Cup #5
+- ISO Cup 3mm
+- ISO Cup 4mm
+- ISO Cup 5mm
+- ISO Cup 6mm
+- ISO Cup 8mm
+- DIN Cup 4mm
+- Fisher Cup #1
+- Fisher Cup #2
+- Fisher Cup #3
+- Fisher Cup #4
+- Parlin Cup #1
+- Parlin Cup #2
+- Parlin Cup #3
+- Parlin Cup #4
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Download
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Download our FREE mobile app to quickly and easily calculate the kinematic viscosity or drain time of your Gardco and BYK viscosity cups. </br>
+[Insta-Visc Mobile App](https://gardco.com/pages/viscosity/vi/insta-visc-app.cfm)

@@ -2435,9 +2435,9 @@ const Gardco = styled.a`
   color: #e60d2e;
   display: block;
   font-size: 1.125rem;
+  font-weight: bold;
   text-align: center;
   text-decoration: none;
-  font-weight: bold;
 `;
 
 export default App;

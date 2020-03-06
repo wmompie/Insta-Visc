@@ -2195,163 +2195,163 @@ class App extends Component {
                 this.count(itemValue.target.value);
             }}
           >
-            <option label='Select a Cup' value='0' />
-            <option style={{ color: color1 }} label='EZ #1' value='1' />
-            <option style={{ color: color2 }} label='EZ #2' value='2' />
-            <option style={{ color: color3 }} label='EZ #3' value='3' />
-            <option style={{ color: color4 }} label='EZ #4' value='4' />
-            <option style={{ color: color5 }} label='EZ #5' value='5' />
+            <option disable selected label='Select a Cup' value=''>Select a Cup</option>
+            <option style={{ color: color1 }} label='EZ #1' value='1'>EZ #1</option>
+            <option style={{ color: color2 }} label='EZ #2' value='2'>EZ #2</option>
+            <option style={{ color: color3 }} label='EZ #3' value='3'>EZ #3</option>
+            <option style={{ color: color4 }} label='EZ #4' value='4'>EZ #4</option>
+            <option style={{ color: color5 }} label='EZ #5' value='5'>EZ #5</option>
 
-            <option style={{ color: color6 }} label='S90 #1' value='6' />
-            <option style={{ color: color7 }} label='S90 #2' value='7' />
-            <option style={{ color: color8 }} label='S90 #3' value='8' />
-            <option style={{ color: color9 }} label='S90 #4' value='9' />
-            <option style={{ color: color10 }} label='S90 #5' value='10' />
+            <option style={{ color: color6 }} label='S90 #1' value='6'>S90 #1</option>
+            <option style={{ color: color7 }} label='S90 #2' value='7'>S90 #2</option>
+            <option style={{ color: color8 }} label='S90 #3' value='8'>S90 #3</option>
+            <option style={{ color: color9 }} label='S90 #4' value='9'>S90 #4</option>
+            <option style={{ color: color10 }} label='S90 #5' value='10'>S90 #5</option>
 
             <option
               style={{ color: color47 }}
               label='BYK Zahn Cup #1'
               value='47'
-            />
+            >BYK Zahn Cup #1</option>
             <option
               style={{ color: color48 }}
               label='BYK Zahn Cup #2'
               value='48'
-            />
+            >BYK Zahn Cup #2</option>
             <option
               style={{ color: color49 }}
               label='BYK Zahn Cup #3'
               value='49'
-            />
+            >BYK Zahn Cup #3</option>
             <option
               style={{ color: color50 }}
               label='BYK Zahn Cup #4'
               value='50'
-            />
+            >BYK Zahn Cup #4</option>
             <option
               style={{ color: color51 }}
               label='BYK Zahn Cup #5'
               value='51'
-            />
+            >BYK Zahn Cup #5</option>
 
             <option
               style={{ color: color11 }}
               label='Mini Ford Dip #0'
               value='11'
-            />
+            >Mini Ford Dip #0</option>
             <option
               style={{ color: color12 }}
               label='Mini Ford Dip #1'
               value='12'
-            />
+            >Mini Ford Dip #1</option>
             <option
               style={{ color: color13 }}
               label='Mini Ford Dip #2'
               value='13'
-            />
+            >Mini Ford Dip #2</option>
             <option
               style={{ color: color14 }}
               label='Mini Ford Dip #3'
               value='14'
-            />
+            >Mini Ford Dip #3</option>
             <option
               style={{ color: color15 }}
               label='Mini Ford Dip #4'
               value='15'
-            />
+            >Mini Ford Dip #4</option>
             <option
               style={{ color: color16 }}
               label='Mini Ford Dip #5'
               value='16'
-            />
+            >Mini Ford Dip #5</option>
 
-            <option style={{ color: color17 }} label='Ford Dip #3' value='17' />
-            <option style={{ color: color18 }} label='Ford Dip #4' value='18' />
-            <option style={{ color: color19 }} label='Ford Dip #5' value='19' />
+            <option style={{ color: color17 }} label='Ford Dip #3' value='17'>Ford Dip #3</option>
+            <option style={{ color: color18 }} label='Ford Dip #4' value='18'>Ford Dip #4</option>
+            <option style={{ color: color19 }} label='Ford Dip #5' value='19'>Ford Dip #5</option>
 
             <option
               style={{ color: color20 }}
               label='Fisher Dip Cup #1'
               value='20'
-            />
+            >Fisher Dip Cup #1</option>
             <option
               style={{ color: color21 }}
               label='Fisher Dip Cup #2'
               value='21'
-            />
+            >Fisher Dip Cup #2</option>
             <option
               style={{ color: color22 }}
               label='Fisher Dip Cup #3'
               value='22'
-            />
+            >Fisher Dip Cup #3</option>
             <option
               style={{ color: color23 }}
               label='Fisher Dip Cup #4'
               value='23'
-            />
+            >Fisher Dip Cup #4</option>
 
-            <option style={{ color: color24 }} label='Iso Dip 3mm' value='24' />
-            <option style={{ color: color25 }} label='Iso Dip 4mm' value='25' />
-            <option style={{ color: color26 }} label='Iso Dip 5mm' value='26' />
+            <option style={{ color: color24 }} label='Iso Dip 3mm' value='24'>Iso Dip 3mm</option>
+            <option style={{ color: color25 }} label='Iso Dip 4mm' value='25'>Iso Dip 4mm</option>
+            <option style={{ color: color26 }} label='Iso Dip 5mm' value='26'>Iso Dip 5mm</option>
 
-            <option style={{ color: color27 }} label='Din Dip 4mm' value='27' />
+            <option style={{ color: color27 }} label='Din Dip 4mm' value='27'>Din Dip 4mm</option>
 
-            <option style={{ color: color28 }} label='Ford Cup #0' value='28' />
-            <option style={{ color: color29 }} label='Ford Cup #1' value='29' />
-            <option style={{ color: color30 }} label='Ford Cup #2' value='30' />
-            <option style={{ color: color31 }} label='Ford Cup #3' value='31' />
-            <option style={{ color: color32 }} label='Ford Cup #4' value='32' />
-            <option style={{ color: color33 }} label='Ford Cup #5' value='33' />
+            <option style={{ color: color28 }} label='Ford Cup #0' value='28'>Ford Cup #0</option>
+            <option style={{ color: color29 }} label='Ford Cup #1' value='29'>Ford Cup #1</option>
+            <option style={{ color: color30 }} label='Ford Cup #2' value='30'>Ford Cup #2</option>
+            <option style={{ color: color31 }} label='Ford Cup #3' value='31'>Ford Cup #3</option>
+            <option style={{ color: color32 }} label='Ford Cup #4' value='32'>Ford Cup #4</option>
+            <option style={{ color: color33 }} label='Ford Cup #5' value='33'>Ford Cup #5</option>
 
-            <option style={{ color: color34 }} label='Iso Cup 3mm' value='34' />
-            <option style={{ color: color35 }} label='Iso Cup 4mm' value='35' />
-            <option style={{ color: color52 }} label='Iso Cup 5mm' value='52' />
-            <option style={{ color: color36 }} label='Iso Cup 6mm' value='36' />
-            <option style={{ color: color37 }} label='Iso Cup 8mm' value='37' />
+            <option style={{ color: color34 }} label='Iso Cup 3mm' value='34'>Iso Cup 3mm</option>
+            <option style={{ color: color35 }} label='Iso Cup 4mm' value='35'>Iso Cup 4mm</option>
+            <option style={{ color: color52 }} label='Iso Cup 5mm' value='52'>Iso Cup 5mm</option>
+            <option style={{ color: color36 }} label='Iso Cup 6mm' value='36'>Iso Cup 6mm</option>
+            <option style={{ color: color37 }} label='Iso Cup 8mm' value='37'>Iso Cup 8mm</option>
 
-            <option style={{ color: color38 }} label='Din Cup 4mm' value='38' />
+            <option style={{ color: color38 }} label='Din Cup 4mm' value='38'>Din Cup 4mm</option>
 
             <option
               style={{ color: color39 }}
               label='Fisher Cup #1'
               value='39'
-            />
+            >Fisher Cup #1</option>
             <option
               style={{ color: color40 }}
               label='Fisher Cup #2'
               value='40'
-            />
+            >Fisher Cup #2</option>
             <option
               style={{ color: color41 }}
               label='Fisher Cup #3'
               value='41'
-            />
+            >Fisher Cup #3</option>
             <option
               style={{ color: color42 }}
               label='Fisher Cup #4'
               value='42'
-            />
+            >Fisher Cup #4</option>
 
             <option
               style={{ color: color43 }}
               label='Parlin Cup #1'
               value='43'
-            />
+            >Parlin Cup #1</option>
             <option
               style={{ color: color44 }}
               label='Parlin Cup #2'
               value='44'
-            />
+            >Parlin Cup #2</option>
             <option
               style={{ color: color45 }}
               label='Parlin Cup #3'
               value='45'
-            />
+            >Parlin Cup #3</option>
             <option
               style={{ color: color46 }}
               label='Parlin Cup #4'
               value='46'
-            />
+            >Parlin Cup #4</option>
           </CupSelector>
         </form>
         <Version>Version: 1.0.2</Version>
@@ -2419,7 +2419,6 @@ const CupSelector = styled.select`
   background-color: #efefef;
   border-radius: 2px;
   font-size: 1.25rem;
-  font-weight: bold;
   height: 2.5rem;
   justify-content: center;
   width: 100%;

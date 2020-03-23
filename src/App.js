@@ -2162,7 +2162,7 @@ class App extends Component {
           style={{ width: '100%', height: '100%', margin: '10px auto' }}
           alt={'GARDCO Logo'}
         />
-        <Accordion defaultActiveKey='0'>
+        <Accordion defaultActiveKey='1'>
           <Card style={{border: 'none'}}>
             <Card.Header style={{textAlign: 'center', background: 'none'}}>
               <Accordion.Toggle as={Button} eventKey='0' style={{backgroundColor: '#487eb0'}}>

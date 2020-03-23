@@ -2549,6 +2549,11 @@ const CupSelector = styled.select`
   width: 100%;
 
   > option {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    font-weight: bold;
+  }
+  > -ms-option {
+    /* Microsoft Edge, Internet Explorer 10-11 */
     font-weight: bold;
   }
 `;

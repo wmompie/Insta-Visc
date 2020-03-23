@@ -2503,18 +2503,18 @@ const InstructionSpan = styled.span`
 const Calculation = styled.p`
   color: #000;
   font-size: 1.5rem;
-  text-align: center;
   margin-top: 25px;
+  text-align: center;
 `;
 
 const TextInputStyle = styled.input`
+  background-color: #111;
   border: 1.5px solid #e3e3e3;
+  color: #fff;
   font-size: 1.25rem;
   height: 45px;
   text-align: center;
   width: 100%;
-  background-color: #111;
-  color: #fff;
 
   ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: #ccc;
@@ -2545,8 +2545,12 @@ const CupSelector = styled.select`
   font-size: 1.25rem;
   height: 2.5rem;
   justify-content: center;
-  width: 100%;
   margin-top: 25px;
+  width: 100%;
+
+  > option {
+    font-weight: bold;
+  }
 `;
 
 const Version = styled.p`

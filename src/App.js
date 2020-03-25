@@ -2176,7 +2176,7 @@ class App extends Component {
                   <InstructionSpan>Viscosity</InstructionSpan> below. Once one of them is entered,
                   select a cup provided in the list that is within range marked
                   with green and the other text field will automatically
-                  populate. <small><InstructionSpan>***This is based off the calculation of exactly 25°C fluid.</InstructionSpan></small>
+                  populate.
                 </h5>
               </Card.Body>
             </Accordion.Collapse>

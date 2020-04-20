@@ -2174,8 +2174,8 @@ class App extends Component {
                 <h5>
                   Enter data for either <InstructionSpan>Time</InstructionSpan> or{' '}
                   <InstructionSpan>Viscosity</InstructionSpan> below. Once one of them is entered,
-                  select a cup provided in the list that is within range marked
-                  with green and the other text field will automatically
+                  select a cup provided in the list that is within range &#40;marked
+                  with green&#41; and the other text field will automatically
                   populate.
                 </h5>
               </Card.Body>

@@ -2387,8 +2387,8 @@ class App extends Component {
               Iso Dip 5mm
             </option>
 
-            <option style={{ color: color27 }} label='Din Dip 4mm' value='27'>
-              Din Dip 4mm
+            <option style={{ color: color27 }} label='Mini Din Dip 4mm' value='27'>
+              Mini Din Dip 4mm
             </option>
 
             <option style={{ color: color28 }} label='Ford Cup #0' value='28'>

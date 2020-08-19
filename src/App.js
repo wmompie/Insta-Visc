@@ -148,7 +148,7 @@ class App extends Component {
       this.setState({ color10: green });
     }
 
-    if (visc < 2 || visc > 14) {
+    if (visc < 12 || visc > 14) {
       this.setState({ color11: black });
     } else {
       this.setState({ color11: green });

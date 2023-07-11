@@ -2158,7 +2158,7 @@ class App extends Component {
     return (
       <MainContainer>
         <img
-          src={'https://i.postimg.cc/vmt9vfcr/GARDCO-BYKlogo.png'}
+          src={'https://www.gardco.com/medias/gardco-logo.svg?context=bWFzdGVyfGltYWdlc3wxMTE1NnxpbWFnZS9zdmcreG1sfGg3Mi9oNWIvOTE0Mjk0NjY2MDM4Mi9nYXJkY28tbG9nby5zdmd8ZWNiNDk4MDc3MmQwNmMzMmEwMDU0YzQyOWY4YWRhYzgwMjMxOTczYjBiOWRhNzZjZjQxNTc3NTg1ZjhjMTMxNQ'}
           style={{ width: '100%', height: '100%', margin: '10px auto' }}
           alt={'GARDCO Logo'}
         />
@@ -2457,22 +2457,15 @@ class App extends Component {
             </option>
           </CupSelector>
         </form>
-        <Version>Version: 1.0.2</Version>
+        <Version>Version: 1.0.3</Version>
 
         <Gardco
-          href={'https://www.gardco.com/viscosity.cfm'}
+          href={'https://www.gardco.com/Products/Viscometers/c/18631'}
           target='_blank'
           rel='noopener noreferrer'
         >
-          www.gardco.com
+          gardco.com
         </Gardco>
-        <div style={{ margin: '2px auto', textAlign: 'center' }}>
-          <img
-            src={'https://i.postimg.cc/Twm75WLV/Altana-logo.png'}
-            style={{ width: '150px', height: '100%' }}
-            alt={'altana logo'}
-          />
-        </div>
       </MainContainer>
     );
   }
